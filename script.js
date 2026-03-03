@@ -2,3 +2,4 @@ window.AbortController
 document.ATTRIBUTE_NODE
 ChannelSplitterNode
 BarProp
+debugger
